@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
   "download_url": "https://github.com/Suvasoura/TwyMiniUpdate/releases/download/v1.0.1/TwyMini-1.0.1-setup.exe",
-  "sha256": "18C192229C23BE3A0EEA2B666C11A39442B193241F21A703906BB4D7D8AC6D34",
+  "sha256": "18c192229c23be3a0eea2b666c11a39442b193241f21a703906bb4d7d8ac6d34",
   "release_notes": "• Faster startup and enhanced response speed\n• Improved desktop UI with responsive sidebar\n• Verified self-managed updater support\n• Stability fixes for background services",
   "mandatory": false
 }
